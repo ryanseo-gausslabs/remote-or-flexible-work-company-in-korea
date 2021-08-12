@@ -86,7 +86,7 @@
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
 | [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
-| 가우스랩스 | 완전 자율 출퇴근 | 재택근무 가능  | [홈페이지](https://gausslabs.ai) / [채용 공고 국문](https://www.wanted.co.kr/wd/63744).    [채용 공고 영문](https://jobs.lever.co/gausslabs) |
+| [가우스랩스](https://gausslabs.ai) | 완전 자율 출퇴근 | 재택근무 가능 | [홈페이지](https://gausslabs.ai) / [Software Engineer 채용 공고](https://www.wanted.co.kr/wd/63744).    [Global 채용 공고](https://jobs.lever.co/gausslabs) |
 
 
 ## 기타 복지
@@ -889,7 +889,7 @@
     - [휴먼스케이프 홈페이지](https://humanscape.io)
     - [휴먼스케이프 Software Engineer 채용](https://bit.ly/recruit_human_dev)
 
-### 가우스랩스
+### [가우스랩스](https://gausslabs.ai)
 - **가우스랩스는 Gaussian의 지속적인 성장을 응원합니다.**
 	- 자기계발비 연 200만원 지급
 	- 온/오프라인 교육, 세미나 무제한 지원
@@ -909,8 +909,8 @@
 
 - **기타**
    - 한 분 한 분 신중하게 모시기 때문에 인재를 귀하게 여깁니다.
-	- 세계적인 기업의 내부 대량 데이터를 다룰 수 있는 흔치 않은 기회를 제공받습니다.
-	- 산업용 AI 분야의 개척자가 될 수 있는 기회를 제공 받습니다.
+	- 세계적인 기업의  내부 대량 데이터를 다룰 수 있는 흔치 않은 기회를 제공합니다
+	- 산업용 AI 분야의 개척자가 될 수 있는 기회를 제공합니다.
 	- 대기업의 자본력을 가지고 있으면서도 완전재량근로가 가능한 스타트업의 자유로운 분위기입니다.
-	- 말 만이 아닌 실제 성장에 도움이 되는 [원칙](https://gausslabs.ai/gaussianprinciples)과 방향을 지향합니다.
-	- 구글, 아마존 출신 등의 세계적인 인재들과의 협업 기회를 제공 받습니다.
+	- 말 뿐이 아닌 실제 성장에 도움이 되는 [원칙](https://gausslabs.ai/gaussianprinciples)과 방향을 지향합니다.
+	- 구글, 아마존 출신 등의 세계적인 인재들과의 협업 기회를 제공합니다.
